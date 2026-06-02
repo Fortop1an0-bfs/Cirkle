@@ -5,4 +5,5 @@ __pycache__/
 *.pyc
 plink_diag.log
 *.log
+*.pid
 .claude/
