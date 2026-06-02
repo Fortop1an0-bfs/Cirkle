@@ -1,0 +1,8 @@
+.venv/
+.env
+*.db
+__pycache__/
+*.pyc
+plink_diag.log
+*.log
+.claude/
